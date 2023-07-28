@@ -32,7 +32,7 @@ Ensure that the program asks the users to input the length of the password to be
 
 ## Usage
 
-The password generator allows users to create more secure passwords for their websites by incorporating diverse character sets and specifying the desired password length. This enhances the overall strength and complexity of the passwords, helping to protect sensitive information and reduce the risk of unauthorized access
+The password generator allows users to create more secure passwords for their websites by incorporating diverse character sets and specifying the desired password length. This enhances the overall strength and complexity of the passwords, helping to protect sensitive information and reduce the risk of unauthorized access.
 
 
 
