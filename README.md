@@ -6,7 +6,7 @@ https://joceamayar.github.io/password-generator/
 
 The password generator was created to facilitate students' learning of essential programming concepts. These concepts include implementing variables for data management, using arrays to organize and access different character sets like lowercase and uppercase alphabets, numbers, and special characters, which are crucial for creating secure and diverse passwords. Moreover, students learn to create functions to encapsulate specific code segments, like password generation and user input validation. Additionally, if statements are employed to control the program flow, ensuring the user's input adheres to required criteria, such as a password length between 8 and 128 characters. The generator utilizes for loops to repeat actions, randomly selecting characters from the available set to construct the final password. By mastering these fundamental JavaScript principles through this project, students can deepen their understanding and proficiency in programming.
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
