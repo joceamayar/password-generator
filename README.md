@@ -37,6 +37,7 @@ The password generator allows users to create more secure passwords for their we
 
 
 
+<img width="1125" alt="Screenshot 2023-07-27 at 10 38 40 PM" src="https://github.com/joceamayar/password-generator/assets/136951180/36b73152-0086-4f94-8df1-2a6db51df49a">
 
 
 
